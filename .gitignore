@@ -1,0 +1,11 @@
+dataset/
+doc/
+test_query/
+train_query/
+document.csv
+train_query.csv
+test_query.csv
+
+venv/
+__pycache__/
+model/
