@@ -26,3 +26,8 @@ python3 TFIDF+BM25+BERT.py --query data_clean/train_query.csv
 # Ranking on Testing Data
 python3 TFIDF+BM25+BERT.py --query data_clean/test_query.csv
 ```
+
+# Approach 3: Pyterrier (BM25 + PL2 + DPH)
+```
+# run in pyterrier.ipynb
+```
