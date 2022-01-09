@@ -1,11 +1,6 @@
-dataset/
+data_clean/
 doc/
 test_query/
 train_query/
-document.csv
-train_query.csv
-test_query.csv
-
-venv/
-__pycache__/
-model/
+bert_model.pt
+training_data.txt
